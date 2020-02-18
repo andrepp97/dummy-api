@@ -29,16 +29,6 @@
     {"id":27,"title":"Dreamworld","poster":"http://dummyimage.com/180x275.jpg/dddddd/000000","release":2005},
     {"id":28,"title":"Cell Count","poster":"http://dummyimage.com/180x275.jpg/ff4444/ffffff","release":2012},
     {"id":29,"title":"Road to Redemption","poster":"http://dummyimage.com/180x275.jpg/5fa2dd/ffffff","release":2007},
-    {"id":30,"title":"Ruby Sparks","poster":"http://dummyimage.com/180x275.jpg/ff4444/ffffff","release":1988},
-    {"id":31,"title":"Forty Guns","poster":"http://dummyimage.com/180x275.jpg/ff4444/ffffff","release":2005},
-    {"id":32,"title":"Blood and Bones (Chi to hone)","poster":"http://dummyimage.com/180x275.jpg/ff4444/ffffff","release":1996},
-    {"id":33,"title":"White of the Eye","poster":"http://dummyimage.com/180x275.jpg/5fa2dd/ffffff","release":1994},
-    {"id":34,"title":"Destination Gobi","poster":"http://dummyimage.com/180x275.jpg/5fa2dd/ffffff","release":1996},
-    {"id":35,"title":"Joshua","poster":"http://dummyimage.com/180x275.jpg/ff4444/ffffff","release":1996},
-    {"id":36,"title":"Well Spent Life, A","poster":"http://dummyimage.com/180x275.jpg/ff4444/ffffff","release":2004},
-    {"id":37,"title":"Karlsson on the Roof","poster":"http://dummyimage.com/180x275.jpg/cc0000/ffffff","release":2004},
-    {"id":38,"title":"Death of Mr. Lazarescu, The (Moartea domnului Lazarescu)","poster":"http://dummyimage.com/180x275.jpg/cc0000/ffffff","release":2003},
-    {"id":39,"title":"Teaching Mrs. Tingle","poster":"http://dummyimage.com/180x275.jpg/5fa2dd/ffffff","release":2012},
-    {"id":40,"title":"Pax Americana and the Weaponization of Space","poster":"http://dummyimage.com/180x275.jpg/cc0000/ffffff","release":2006}
+    {"id":30,"title":"Ruby Sparks","poster":"http://dummyimage.com/180x275.jpg/ff4444/ffffff","release":1988}
   ]
 }
